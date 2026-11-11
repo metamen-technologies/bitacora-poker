@@ -1,0 +1,402 @@
+{
+  "url": "http://127.0.0.1:3000/historial?entrada=11",
+  "innerWidth": 390,
+  "scrollWidth": 390,
+  "clientWidth": 390,
+  "scrollHeight": 4423,
+  "bodyTextSize": "16px",
+  "firstEntryTop": 1312,
+  "archiveTop": 2781,
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Las manos pasan. Las lecciones quedan.",
+      "size": "32px",
+      "weight": "700",
+      "top": 307
+    },
+    {
+      "tag": "H2",
+      "text": "Es momento de revisar tu juego.",
+      "size": "18px",
+      "weight": "700",
+      "top": 630
+    },
+    {
+      "tag": "H2",
+      "text": "Tus eliminaciones",
+      "size": "22px",
+      "weight": "700",
+      "top": 1235
+    },
+    {
+      "tag": "H2",
+      "text": "Satélite al Main Event - Fase 2 con un nombre deliberadamente largo para probar el desbord",
+      "size": "24px",
+      "weight": "700",
+      "top": 1708
+    },
+    {
+      "tag": "H2",
+      "text": "Historial de Revisiones",
+      "size": "24px",
+      "weight": "700",
+      "top": 2806
+    },
+    {
+      "tag": "H2",
+      "text": "Tu mes en cuadros",
+      "size": "24px",
+      "weight": "700",
+      "top": 3182
+    },
+    {
+      "tag": "H2",
+      "text": "Tu información, bajo tu control.",
+      "size": "24px",
+      "weight": "700",
+      "top": 3817
+    }
+  ],
+  "smallText": [
+    {
+      "tag": "SPAN",
+      "cls": "status status-draft",
+      "text": "Borrador",
+      "size": 11,
+      "color": "rgb(195, 201, 197)",
+      "bg": "rgb(41, 45, 42)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-c compact",
+      "text": "2♣",
+      "size": 11,
+      "color": "rgb(22, 163, 74)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-c compact",
+      "text": "3♣",
+      "size": 11,
+      "color": "rgb(22, 163, 74)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 11,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-pending",
+      "text": "Completada - Pendiente",
+      "size": 11,
+      "color": "rgb(239, 201, 119)",
+      "bg": "rgb(59, 46, 23)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-c compact",
+      "text": "K♣",
+      "size": 11,
+      "color": "rgb(22, 163, 74)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-c compact",
+      "text": "J♣",
+      "size": 11,
+      "color": "rgb(22, 163, 74)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 11,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-s compact",
+      "text": "A♠",
+      "size": 11,
+      "color": "rgb(24, 24, 27)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-d compact",
+      "text": "Q♦",
+      "size": 11,
+      "color": "rgb(37, 99, 235)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-pending",
+      "text": "Completada - Pendiente",
+      "size": 11,
+      "color": "rgb(239, 201, 119)",
+      "bg": "rgb(59, 46, 23)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-h compact",
+      "text": "5♥",
+      "size": 11,
+      "color": "rgb(220, 38, 38)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-s compact",
+      "text": "5♠",
+      "size": 11,
+      "color": "rgb(24, 24, 27)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 11,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-h compact",
+      "text": "A♥",
+      "size": 11,
+      "color": "rgb(220, 38, 38)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-h compact",
+      "text": "Q♥",
+      "size": 11,
+      "color": "rgb(220, 38, 38)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-pending",
+      "text": "Completada - Pendiente",
+      "size": 11,
+      "color": "rgb(239, 201, 119)",
+      "bg": "rgb(59, 46, 23)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-s compact",
+      "text": "Q♠",
+      "size": 11,
+      "color": "rgb(24, 24, 27)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-h compact",
+      "text": "Q♥",
+      "size": 11,
+      "color": "rgb(220, 38, 38)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 11,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-c compact",
+      "text": "A♣",
+      "size": 11,
+      "color": "rgb(22, 163, 74)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-d compact",
+      "text": "K♦",
+      "size": 11,
+      "color": "rgb(37, 99, 235)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-pending",
+      "text": "Completada - Pendiente",
+      "size": 11,
+      "color": "rgb(239, 201, 119)",
+      "bg": "rgb(59, 46, 23)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-c compact",
+      "text": "T♣",
+      "size": 11,
+      "color": "rgb(22, 163, 74)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-c compact",
+      "text": "9♣",
+      "size": 11,
+      "color": "rgb(22, 163, 74)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 11,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-pending",
+      "text": "Completada - Pendiente",
+      "size": 11,
+      "color": "rgb(239, 201, 119)",
+      "bg": "rgb(59, 46, 23)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-s compact",
+      "text": "J♠",
+      "size": 11,
+      "color": "rgb(24, 24, 27)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "playing-card suit-h compact",
+      "text": "J♥",
+      "size": 11,
+      "color": "rgb(220, 38, 38)",
+      "bg": "rgb(244, 244, 245)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 11,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    }
+  ],
+  "smallTargets": [
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": ""
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": "Seleccionar entrada 11"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": "Seleccionar entrada 10"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": "Seleccionar entrada 9"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": "Seleccionar entrada 8"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": "Seleccionar entrada 7"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": "Seleccionar entrada 6"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": "Seleccionar entrada 5"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": "Seleccionar entrada 4"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": "Seleccionar entrada 3"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": "Seleccionar entrada 2"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 22,
+      "h": 22,
+      "text": "Seleccionar entrada 1"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 1,
+      "h": 46,
+      "text": ""
+    }
+  ],
+  "h1": {
+    "text": "Las manos pasan. Las lecciones quedan.",
+    "size": "32px",
+    "weight": "700"
+  },
+  "fullHeight": 4423
+}

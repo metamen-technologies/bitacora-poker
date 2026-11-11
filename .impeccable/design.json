@@ -1,0 +1,361 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-10T04:48:01-06:00",
+  "title": "Design System: River Notes",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "neutral",
+        "displayName": "Tinta de sala",
+        "canonical": "#080d0b",
+        "tonalRamp": ["#050806", "#080d0b", "#0d1512", "#111a16", "#1a2620", "#26362e", "#33483d", "#43594d"]
+      },
+      "panel": {
+        "role": "neutral",
+        "displayName": "Panel",
+        "canonical": "#111a16",
+        "tonalRamp": ["#0a0f0d", "#0d1512", "#111a16", "#16231d", "#1c2c25", "#24382f", "#2e473b", "#3a5748"]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Línea",
+        "canonical": "#294034",
+        "tonalRamp": ["#111a16", "#18261f", "#1f3229", "#294034", "#355043", "#436356", "#557a6b", "#6b9382"]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "Texto",
+        "canonical": "#edf1ee",
+        "tonalRamp": ["#5c6a62", "#75847b", "#8f9e94", "#aab7ae", "#c3ccc5", "#d7ddd8", "#e6eae7", "#edf1ee"]
+      },
+      "text-muted": {
+        "role": "neutral",
+        "displayName": "Texto apagado",
+        "canonical": "#93a198",
+        "tonalRamp": ["#3d4741", "#4d5952", "#5f6c64", "#718077", "#829188", "#8a9990", "#8f9e95", "#93a198"]
+      },
+      "lime": {
+        "role": "primary",
+        "displayName": "Lima de mesa",
+        "canonical": "#bdf36b",
+        "tonalRamp": ["#2b3a17", "#40551f", "#587328", "#728f34", "#8cab42", "#a3c653", "#b1dd5f", "#bdf36b"]
+      },
+      "lime-bright": {
+        "role": "primary",
+        "displayName": "Lima encendida",
+        "canonical": "#cbff7a",
+        "tonalRamp": ["#31421a", "#496022", "#627e2c", "#7b9c37", "#95b945", "#acd255", "#bce969", "#cbff7a"]
+      },
+      "lime-deep": {
+        "role": "primary",
+        "displayName": "Lima profunda",
+        "canonical": "#6a9a42",
+        "tonalRamp": ["#1c2a12", "#2a3d1a", "#3a5223", "#4b682d", "#5a7e37", "#648e3e", "#679440", "#6a9a42"]
+      },
+      "warning": {
+        "role": "secondary",
+        "displayName": "Ámbar de advertencia",
+        "canonical": "#efc977",
+        "tonalRamp": ["#3a2c14", "#5a431d", "#7c5d28", "#9d7833", "#bd9442", "#d6ad55", "#e5bd67", "#efc977"]
+      },
+      "danger": {
+        "role": "tertiary",
+        "displayName": "Rojo de peligro",
+        "canonical": "#dd8d84",
+        "tonalRamp": ["#3a1d1a", "#5a2c27", "#7c3d36", "#9d4e45", "#bd6157", "#d1746a", "#d98178", "#dd8d84"]
+      },
+      "draft": {
+        "role": "tertiary",
+        "displayName": "Gris de borrador",
+        "canonical": "#94a3b8",
+        "tonalRamp": ["#2a3038", "#3c4551", "#505c6b", "#657386", "#7a89a0", "#8998ad", "#8f9eb3", "#94a3b8"]
+      },
+      "suit-spade-deep": {
+        "role": "tertiary",
+        "displayName": "Pica profunda",
+        "canonical": "#18181b",
+        "tonalRamp": ["#09090a", "#101011", "#18181b", "#252528", "#343438", "#45454a", "#595960", "#707078"]
+      },
+      "suit-spade-soft": {
+        "role": "tertiary",
+        "displayName": "Pica suave",
+        "canonical": "#3f3f46",
+        "tonalRamp": ["#141416", "#1d1d20", "#27272b", "#313137", "#3a3a41", "#3f3f46", "#55555e", "#6e6e78"]
+      },
+      "suit-heart-deep": {
+        "role": "tertiary",
+        "displayName": "Corazón profundo",
+        "canonical": "#dc2626",
+        "tonalRamp": ["#3a0a0a", "#5c1010", "#7e1616", "#a01c1c", "#c22222", "#d42424", "#da2525", "#dc2626"]
+      },
+      "suit-heart-soft": {
+        "role": "tertiary",
+        "displayName": "Corazón suave",
+        "canonical": "#ef4444",
+        "tonalRamp": ["#3f1212", "#631c1c", "#872626", "#ab3030", "#cf3a3a", "#e04040", "#e84242", "#ef4444"]
+      },
+      "suit-diamond-deep": {
+        "role": "tertiary",
+        "displayName": "Diamante profundo",
+        "canonical": "#2563eb",
+        "tonalRamp": ["#0a1a3d", "#0f2a61", "#143a85", "#1a4aa9", "#205acd", "#235fe0", "#2461e6", "#2563eb"]
+      },
+      "suit-diamond-soft": {
+        "role": "tertiary",
+        "displayName": "Diamante suave",
+        "canonical": "#3b82f6",
+        "tonalRamp": ["#10223f", "#183566", "#20488d", "#285bb4", "#306edb", "#3578ee", "#387df2", "#3b82f6"]
+      },
+      "suit-club-deep": {
+        "role": "tertiary",
+        "displayName": "Trébol profundo",
+        "canonical": "#16a34a",
+        "tonalRamp": ["#062b14", "#0a4620", "#0e612c", "#127c38", "#169744", "#16a34a", "#18b352", "#1ac65c"]
+      },
+      "suit-club-soft": {
+        "role": "tertiary",
+        "displayName": "Trébol suave",
+        "canonical": "#22c55e",
+        "tonalRamp": ["#0a3319", "#105126", "#167034", "#1c8f42", "#22ae50", "#22c55e", "#2ed76a", "#3ee57a"]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Título de página; una sola vez por superficie."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Títulos de tarjetas grandes y del panel de promesa."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Títulos de panel, sección y tarjetas de revisión."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Párrafos, descripciones y textos de análisis."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Eyebrows, etiquetas de campo, códigos y metadatos."
+      },
+      "mono": {
+        "displayName": "Mono",
+        "purpose": "Bloque de formato canónico y datos técnicos."
+      }
+    },
+    "shadows": [
+      {
+        "name": "panel",
+        "value": "0 12px 50px rgba(0,0,0,.08)",
+        "purpose": "Sombra ambiental muy sutil bajo paneles."
+      },
+      {
+        "name": "save-menu",
+        "value": "0 18px 50px rgba(0,0,0,.55)",
+        "purpose": "Elevación real del menú flotante de guardado."
+      },
+      {
+        "name": "toast",
+        "value": "0 10px 40px #000",
+        "purpose": "Confirmación flotante de guardado o error."
+      },
+      {
+        "name": "playing-card",
+        "value": "0 2px 5px rgba(0,0,0,.18)",
+        "purpose": "Separación de la carta blanca del fondo."
+      },
+      {
+        "name": "focus-input",
+        "value": "0 0 0 3px rgba(189,243,107,.06)",
+        "purpose": "Halo de foco de inputs y controles."
+      },
+      {
+        "name": "focus-review",
+        "value": "0 0 0 2px rgba(189,243,107,.08)",
+        "purpose": "Marca activa del bloque de revisión."
+      },
+      {
+        "name": "today",
+        "value": "inset 0 0 0 1px #6a9a42",
+        "purpose": "Anillo interior del día actual en el calendario."
+      }
+    ],
+    "motion": [
+      {
+        "name": "page-in",
+        "value": "opacity 0 → 1; translateY(5px) → 0; 250ms ease-out",
+        "purpose": "Entrada de una página; única animación base."
+      },
+      {
+        "name": "tooltip",
+        "value": "opacity 0 → 1; 120ms ease",
+        "purpose": "Aparición del tooltip del calendario."
+      },
+      {
+        "name": "routine-state",
+        "value": "0ms; cambio inmediato",
+        "purpose": "Los estados de botones, pestañas y tarjetas no usan transición."
+      }
+    ],
+    "breakpoints": [
+      { "name": "min", "value": "320px" },
+      { "name": "sm", "value": "520px" },
+      { "name": "md", "value": "800px" },
+      { "name": "lg", "value": "1100px" },
+      { "name": "content-max", "value": "1220px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Acción principal de la página; lima sobre texto tinta.",
+      "html": "<button class=\"ds-btn-primary\">Guardar cambios</button>",
+      "css": ".ds-btn-primary { min-height: 42px; padding: 0 24px; border: 1px solid transparent; border-radius: 6px; background: #bdf36b; color: #15200f; font: 700 12px/1 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; cursor: pointer; } .ds-btn-primary:hover { background: #cbff7a; } .ds-btn-primary:focus-visible { outline: 2px solid #bdf36b; outline-offset: 2px; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Acción secundaria con borde y fondo de entrada.",
+      "html": "<button class=\"ds-btn-secondary\">Volver al historial</button>",
+      "css": ".ds-btn-secondary { min-height: 42px; padding: 0 24px; border: 1px solid #294034; border-radius: 6px; background: #0b120f; color: #e4e9e5; font: 700 12px/1 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; cursor: pointer; } .ds-btn-secondary:hover { border-color: #6a9a42; } .ds-btn-secondary:focus-visible { outline: 2px solid #bdf36b; outline-offset: 2px; }"
+    },
+    {
+      "name": "Save Progress Button",
+      "kind": "button",
+      "refersTo": "save-progress",
+      "description": "Guardado manual junto a LOCAL; cambia a estado guardado o error.",
+      "html": "<button class=\"ds-btn-save is-saved\">Progreso guardado • 04:31:47</button>",
+      "css": ".ds-btn-save { min-height: 36px; padding: 0 12px; border: 1px solid #365329; border-radius: 7px; background: #142218; color: #dbe6dd; font: 700 11px/1 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; white-space: nowrap; cursor: pointer; } .ds-btn-save:hover { border-color: #6a9a42; background: #1b2e1c; } .ds-btn-save.is-saved { border-color: #6a9a42; background: #203a1c; color: #bdf36b; } .ds-btn-save.is-error { border-color: #6c3732; background: #2b1715; color: #efaaa2; } .ds-btn-save:focus-visible { outline: 2px solid #bdf36b; outline-offset: 2px; }"
+    },
+    {
+      "name": "Text Input",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Campo de texto estándar del formulario.",
+      "html": "<label class=\"ds-field\"><span>Torneo</span><input class=\"ds-input\" placeholder=\"Daily Deepstack\" /></label>",
+      "css": ".ds-field { display: grid; gap: 7px; color: #9aa8a0; font: 400 10px/1.4 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; } .ds-input { width: 100%; min-height: 43px; padding: 0 12px; border: 1px solid #2a4034; border-radius: 7px; outline: none; background: #0b120f; color: #e8ece9; font: 400 13px/1.4 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; } .ds-input::placeholder { color: #5e7066; } .ds-input:focus { border-color: #6e9f48; box-shadow: 0 0 0 3px rgba(189,243,107,.06); }"
+    },
+    {
+      "name": "Navigation Item",
+      "kind": "nav",
+      "refersTo": "nav-item",
+      "description": "Ítem de la barra lateral; el activo usa fondo verde y número lima.",
+      "html": "<a class=\"ds-nav-item is-active\" href=\"#\"><span>02</span><strong>Historial</strong><em>08</em></a>",
+      "css": ".ds-nav-item { min-height: 44px; display: grid; grid-template-columns: 28px 1fr auto; align-items: center; gap: 0; padding: 0 12px; border-radius: 8px; color: #9baa9f; font: 500 12px/1 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; text-decoration: none; } .ds-nav-item > span { color: #7e9186; font-size: 11px; } .ds-nav-item em { min-width: 29px; padding: 5px 7px; border-radius: 7px; background: #29362f; color: #9baa9f; font-style: normal; font-size: 11px; text-align: center; } .ds-nav-item:hover { background: #131e19; color: #e8eee9; } .ds-nav-item.is-active { background: #253f20; color: #f2f4f2; } .ds-nav-item.is-active > span { color: #bdf36b; } .ds-nav-item.is-active strong { font-weight: 700; }"
+    },
+    {
+      "name": "History Tab",
+      "kind": "chip",
+      "refersTo": "history-tab",
+      "description": "Pestaña del historial; el activo usa borde y fondo lima lavado.",
+      "html": "<button class=\"ds-history-tab is-active\">Todas (12)</button>",
+      "css": ".ds-history-tab { padding: 9px 13px; border: 1px solid transparent; border-radius: 7px; background: transparent; color: #91a198; font: 700 10px/1 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; cursor: pointer; } .ds-history-tab:hover { background: #15231b; color: #dbe6dd; } .ds-history-tab.is-active { border-color: #496238; background: #1e311b; color: #bdf36b; } .ds-history-tab:focus-visible { outline: 2px solid #bdf36b; outline-offset: 2px; }"
+    },
+    {
+      "name": "Playing Card",
+      "kind": "custom",
+      "refersTo": "playing-card",
+      "description": "Carta blanca de la baraja de cuatro colores.",
+      "html": "<span class=\"ds-playing-card is-heart\">A♥</span>",
+      "css": ".ds-playing-card { display: inline-flex; align-items: center; justify-content: center; min-width: 34px; height: 40px; padding: 0 6px; border: 1px solid #d4d4d8; border-radius: 5px; background: #f4f4f5; color: #18181b; font: 800 16px/1 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; box-shadow: 0 2px 5px rgba(0,0,0,.18); } .ds-playing-card.is-heart { color: #dc2626; } .ds-playing-card.is-diamond { color: #2563eb; } .ds-playing-card.is-club { color: #16a34a; }"
+    },
+    {
+      "name": "Calendar Day",
+      "kind": "custom",
+      "refersTo": "calendar-day",
+      "description": "Celda del mapa de calor; combina número, intensidad y puntos de estado.",
+      "html": "<button class=\"ds-calendar-day is-reviewed\"><span>14</span><span class=\"ds-day-count\">1</span><span class=\"ds-day-dot\"></span></button>",
+      "css": ".ds-calendar-day { position: relative; min-height: 46px; padding: 5px 6px; display: flex; flex-direction: column; align-items: flex-start; justify-content: space-between; border: 1px solid #25382f; border-radius: 6px; background: #0b120f; color: #93a198; font: 400 10px/1.2 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; text-align: left; cursor: pointer; } .ds-calendar-day.is-reviewed { border-color: rgba(189,243,107,.4); background: rgba(189,243,107,.14); } .ds-calendar-day.is-pending { border-color: rgba(239,201,119,.45); background: rgba(239,201,119,.14); } .ds-calendar-day.is-draft { border-color: rgba(148,163,184,.35); background: rgba(148,163,184,.14); } .ds-calendar-day.is-today { box-shadow: inset 0 0 0 1px #6a9a42; } .ds-calendar-day .ds-day-count { position: absolute; top: 4px; right: 5px; min-width: 15px; padding: 1px 4px; border-radius: 9px; background: #0a100d; color: #eaf0eb; font-size: 8px; text-align: center; } .ds-calendar-day .ds-day-dot { width: 5px; height: 5px; border-radius: 50%; background: #bdf36b; } .ds-calendar-day.is-pending .ds-day-dot { background: #efc977; } .ds-calendar-day.is-draft .ds-day-dot { background: #94a3b8; }"
+    },
+    {
+      "name": "Review Archive Summary",
+      "kind": "custom",
+      "refersTo": "review-archive-summary",
+      "description": "Cabecera plegable de un bloque cerrado; conserva conclusiones y manos.",
+      "html": "<details class=\"ds-review-archive\" open><summary><span class=\"ds-archive-id\">BLOQUE 01</span><strong>Cinco entradas</strong><time>10 nov 2026</time><em>5 manos</em></summary></details>",
+      "css": ".ds-review-archive { border-bottom: 1px solid #2a3c33; color: #edf1ee; font: 400 12px/1.4 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; } .ds-review-archive summary { padding: 14px 4px; display: grid; grid-template-columns: 95px minmax(0,1fr) auto auto 18px; gap: 12px; align-items: center; cursor: pointer; list-style: none; } .ds-review-archive summary::-webkit-details-marker { display: none; } .ds-review-archive summary:hover { background: #15231b; } .ds-review-archive summary::after { content: \"▾\"; color: #bdf36b; font-size: 11px; text-align: right; } .ds-review-archive .ds-archive-id { color: #bdf36b; font-size: 9px; font-weight: 800; letter-spacing: .03em; } .ds-review-archive summary strong { font-size: 12px; } .ds-review-archive summary time { color: #819188; font-size: 9px; } .ds-review-archive summary em { padding: 4px 8px; border: 1px solid #314b3b; border-radius: 5px; color: #b8c5bd; font-size: 8px; font-style: normal; }"
+    },
+    {
+      "name": "Panel",
+      "kind": "card",
+      "refersTo": "panel",
+      "description": "Superficie base de la aplicación; borde fino y sombra ambiental.",
+      "html": "<section class=\"ds-panel\"><strong>Panel</strong><p>Superficie de trabajo.</p></section>",
+      "css": ".ds-panel { padding: 22px 24px; border: 1px solid #294034; border-radius: 11px; background: #111a16; color: #edf1ee; box-shadow: 0 12px 50px rgba(0,0,0,.08); font: 400 13px/1.55 Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; } .ds-panel strong { display: block; margin-bottom: 6px; font-size: 17px; } .ds-panel p { margin: 0; color: #93a198; font-size: 12px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "La mesa de estudio nocturna",
+    "overview": "River Notes se ve como la mesa de poker que queda después de una sesión: fieltro verde muy oscuro, luz baja, cartas blancas que concentran la atención y un acento lima que marca lo que está vivo. La interfaz es densa y operativa, pero no fría: el espacio está construido con capas tonales de verde, bordes finos y una tipografía compacta que prioriza el escaneo.\n\nEl sistema no busca espectáculo. La identidad aparece en detalles precisos: la espada de la marca, los números de entrada en lima, la baraja de cuatro colores, el calendario de calor y la cita «Tu juego, en perspectiva». El movimiento es escaso y funcional: una entrada de página de 250 ms y un tooltip de 120 ms; no hay coreografía decorativa.\n\nLa densidad es deliberada. Los textos de apoyo viven entre 8 y 13 px, los controles entre 35 y 44 px, y los paneles entre 17 y 24 px de padding. El resultado debe sentirse como una herramienta de trabajo: rápida de leer, silenciosa y enfocada en la siguiente decisión.",
+    "keyCharacteristics": [
+      "Fondo verde nocturno con capas tonales, no superficies blancas.",
+      "Lima como acento de acción, foco y estado activo.",
+      "Bordes de 1 px y radios contenidos; las sombras se reservan para elevación real.",
+      "Baraja de cuatro colores con ocho valores exactos.",
+      "Historial completo, calendario de calor y archivo de revisiones como piezas de información, no decoración.",
+      "Movimiento mínimo, con prefers-reduced-motion como límite."
+    ],
+    "rules": [
+      {
+        "name": "The Four-Color Deck Rule",
+        "body": "Cada palo tiene un color propio. Corazones y diamantes nunca comparten rojo; la baraja no se reduce a dos colores.",
+        "section": "colors"
+      },
+      {
+        "name": "The Lime Is an Accent Rule",
+        "body": "El lima señala acción, foco o estado activo; no cubre superficies completas ni compite con las cartas.",
+        "section": "colors"
+      },
+      {
+        "name": "The Status Is Not Only Color Rule",
+        "body": "Borrador, pendiente y revisada siempre llevan texto además del color.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Family Rule",
+        "body": "No se introduce una segunda familia para decorar; la jerarquía se resuelve con escala, peso y color.",
+        "section": "typography"
+      },
+      {
+        "name": "The 224 Rule",
+        "body": "La barra lateral mide 224 px en escritorio; el workspace nunca queda por debajo de su contenido mínimo.",
+        "section": "layout"
+      },
+      {
+        "name": "The Flat-By-Default Rule",
+        "body": "Las superficies están planas en reposo. La sombra aparece para elevar un menú, un toast o una carta, no para decorar cada panel.",
+        "section": "elevation"
+      },
+      {
+        "name": "The 7/11 Rule",
+        "body": "Controles a 7 px, paneles a 11 px. Si un elemento no encaja en esa escala, se justifica por su función (cartas a 5 px, chips a 16 px).",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "Do conservar la jerarquía tonal verde: #080d0b → #0d1512 → #111a16 → #131f1a.",
+      "Do usar lima #bdf36b para acción primaria, foco, eyebrows y estados activos; el acento debe seguir siendo escaso.",
+      "Do mantener la baraja de cuatro colores con los ocho valores exactos y el glyph claro de picas sobre el deck oscuro.",
+      "Do acompañar cada estado con texto: Borrador, Completada - Pendiente, Completada - Revisada.",
+      "Do usar radio 7px en controles y 11px en paneles; 5px en cartas y estados.",
+      "Do conservar la barra lateral de 224px, el contenido máximo de 1220px y los breakpoints 1100/800/520.",
+      "Do reservar el blanco #f4f4f5 para las cartas y mantener el fondo de página en verde nocturno.",
+      "Do respetar prefers-reduced-motion: la entrada de página y el tooltip son los únicos movimientos base."
+    ],
+    "donts": [
+      "Don't convertir el lima en fondo de paneles o páginas completas.",
+      "Don't pintar corazones y diamantes del mismo rojo; la baraja perdería su lectura de cuatro colores.",
+      "Don't ocultar borradores, entradas pendientes, entradas revisadas ni bloques cerrados para «limpiar» la interfaz.",
+      "Don't sustituir los estados por color sin texto; el color no es el único código.",
+      "Don't añadir sombras decorativas a cada tarjeta; el sistema es plano por defecto.",
+      "Don't introducir una segunda familia tipográfica o una webfont solo por estética.",
+      "Don't usar animaciones largas o rebotes en una herramienta de trabajo; el movimiento debe explicar estado, no entretener.",
+      "Don't cambiar los ocho valores de la baraja, los textos funcionales ni los selectores que usan las pruebas."
+    ]
+  }
+}

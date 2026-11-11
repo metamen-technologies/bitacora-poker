@@ -1,0 +1,282 @@
+{
+  "url": "http://127.0.0.1:3000/revision",
+  "innerWidth": 1440,
+  "scrollWidth": 1440,
+  "clientWidth": 1440,
+  "scrollHeight": 1362,
+  "bodyTextSize": "16px",
+  "firstEntryTop": null,
+  "archiveTop": null,
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Antes de seguir, mira hacia atrás.",
+      "size": "36px",
+      "weight": "700",
+      "top": 135
+    },
+    {
+      "tag": "H2",
+      "text": "Daily Deepstack",
+      "size": "24px",
+      "weight": "700",
+      "top": 408
+    },
+    {
+      "tag": "H2",
+      "text": "Lo que te llevas de este bloque",
+      "size": "24px",
+      "weight": "700",
+      "top": 377
+    }
+  ],
+  "smallText": [
+    {
+      "tag": "SMALL",
+      "cls": "",
+      "text": "NOTES",
+      "size": 11,
+      "color": "rgb(179, 188, 182)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "P",
+      "cls": "eyebrow sidebar-heading",
+      "text": "TU JUEGO, EN PERSPECTIVA",
+      "size": 11,
+      "color": "rgb(138, 154, 144)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "eyebrow",
+      "text": "ESTUDIO CON INTENCIÓN",
+      "size": 11,
+      "color": "rgb(138, 154, 144)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SMALL",
+      "cls": "",
+      "text": "Datos locales · v1.0",
+      "size": 11,
+      "color": "rgb(138, 154, 144)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SMALL",
+      "cls": "",
+      "text": "BUY-IN",
+      "size": 11,
+      "color": "rgb(138, 154, 144)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SMALL",
+      "cls": "",
+      "text": "POSICIÓN",
+      "size": 11,
+      "color": "rgb(138, 154, 144)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SMALL",
+      "cls": "",
+      "text": "STACK",
+      "size": 11,
+      "color": "rgb(138, 154, 144)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SMALL",
+      "cls": "",
+      "text": "CALLE",
+      "size": 11,
+      "color": "rgb(138, 154, 144)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SMALL",
+      "cls": "",
+      "text": "HÉROE",
+      "size": 11,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SMALL",
+      "cls": "",
+      "text": "VILLANO",
+      "size": 11,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SMALL",
+      "cls": "",
+      "text": "BOARD · Preflop",
+      "size": 11,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "text": "00",
+      "size": 12,
+      "color": "rgb(138, 154, 144)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "text": "01",
+      "size": 12,
+      "color": "rgb(138, 154, 144)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "text": "02",
+      "size": 12,
+      "color": "rgb(138, 154, 144)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "EM",
+      "cls": "",
+      "text": "11",
+      "size": 12,
+      "color": "rgb(167, 180, 172)",
+      "bg": "rgb(41, 54, 47)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "text": "03",
+      "size": 12,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SMALL",
+      "cls": "",
+      "text": "Tu revisión está lista. Haz una pausa para aprende",
+      "size": 12,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "text": "● Solo en este equipo",
+      "size": 12,
+      "color": "rgb(164, 177, 168)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "local-badge",
+      "text": "LOCAL",
+      "size": 12,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgb(18, 30, 25)"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "save-progress-button ",
+      "text": "Guardar progreso",
+      "size": 12,
+      "color": "rgb(219, 230, 221)",
+      "bg": "rgb(20, 34, 24)"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "text-button",
+      "text": "Activar notificaciones",
+      "size": 12,
+      "color": "rgb(183, 195, 187)",
+      "bg": "rgb(18, 30, 25)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "eyebrow",
+      "text": "REVISIÓN / BLOQUE 02",
+      "size": 12,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "mandatory-badge",
+      "text": "Revisión obligatoria · 5 entradas",
+      "size": 12,
+      "color": "rgb(239, 201, 119)",
+      "bg": "rgb(46, 39, 23)"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "Te quedan 5 por revisar.",
+      "size": 12,
+      "color": "rgb(164, 177, 168)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "eyebrow",
+      "text": "ENTRADA 06 / 05",
+      "size": 12,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "text": "9/11/2026, 11:45:00 a.m.",
+      "size": 12,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "unknown-hand",
+      "text": "Sin board",
+      "size": 12,
+      "color": "rgb(145, 161, 152)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "code",
+      "text": "[PR-EL]",
+      "size": 12,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "code",
+      "text": "[ERR-01]",
+      "size": 12,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "code",
+      "text": "[OK-01]",
+      "size": 12,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgba(0, 0, 0, 0)"
+    }
+  ],
+  "smallTargets": [],
+  "h1": {
+    "text": "Antes de seguir, mira hacia atrás.",
+    "size": "36px",
+    "weight": "700"
+  },
+  "fullHeight": 1362
+}

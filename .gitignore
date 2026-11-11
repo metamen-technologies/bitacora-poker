@@ -1,0 +1,10 @@
+node_modules/
+dist/
+data/*.db
+data/*.db-*
+data/backup-latest.json
+data/backup-latest.json.tmp
+coverage/
+.vite/
+.opencode/
+*.log

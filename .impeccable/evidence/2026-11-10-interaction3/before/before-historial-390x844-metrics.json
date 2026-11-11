@@ -1,0 +1,430 @@
+{
+  "url": "http://127.0.0.1:3000/historial?entrada=11",
+  "innerWidth": 390,
+  "scrollWidth": 559,
+  "clientWidth": 390,
+  "scrollHeight": 4074,
+  "bodyTextSize": "16px",
+  "firstEntryTop": 1762,
+  "archiveTop": 3441,
+  "headings": [
+    {
+      "tag": "H1",
+      "text": "Las manos pasan. Las lecciones quedan.",
+      "size": "26px",
+      "weight": "400",
+      "top": 277
+    },
+    {
+      "tag": "H3",
+      "text": "Es momento de revisar tu juego.",
+      "size": "16px",
+      "weight": "400",
+      "top": 487
+    },
+    {
+      "tag": "H2",
+      "text": "Tu mes en cuadros",
+      "size": "17px",
+      "weight": "400",
+      "top": 810
+    },
+    {
+      "tag": "H2",
+      "text": "Tus eliminaciones",
+      "size": "15px",
+      "weight": "400",
+      "top": 1691
+    },
+    {
+      "tag": "H2",
+      "text": "Satélite al Main Event - Fase 2 con un nombre deliberadamente largo para probar el desbord",
+      "size": "18px",
+      "weight": "400",
+      "top": 2197
+    },
+    {
+      "tag": "H2",
+      "text": "Historial de Revisiones",
+      "size": "17px",
+      "weight": "400",
+      "top": 3488
+    },
+    {
+      "tag": "H2",
+      "text": "Tu información, bajo tu control.",
+      "size": "16px",
+      "weight": "400",
+      "top": 3733
+    }
+  ],
+  "smallText": [
+    {
+      "tag": "SPAN",
+      "cls": "calendar-weekday",
+      "text": "Lun",
+      "size": 8,
+      "color": "rgb(111, 130, 119)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "calendar-weekday",
+      "text": "Mar",
+      "size": 8,
+      "color": "rgb(111, 130, 119)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "calendar-weekday",
+      "text": "Mié",
+      "size": 8,
+      "color": "rgb(111, 130, 119)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "calendar-weekday",
+      "text": "Jue",
+      "size": 8,
+      "color": "rgb(111, 130, 119)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "calendar-weekday",
+      "text": "Vie",
+      "size": 8,
+      "color": "rgb(111, 130, 119)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "calendar-weekday",
+      "text": "Sáb",
+      "size": 8,
+      "color": "rgb(111, 130, 119)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "calendar-weekday",
+      "text": "Dom",
+      "size": 8,
+      "color": "rgb(111, 130, 119)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 8,
+      "color": "rgb(101, 119, 108)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-draft",
+      "text": "Borrador",
+      "size": 8,
+      "color": "rgb(170, 176, 172)",
+      "bg": "rgb(41, 45, 42)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 8,
+      "color": "rgb(101, 119, 108)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-pending",
+      "text": "Completada - Pendiente",
+      "size": 8,
+      "color": "rgb(239, 201, 119)",
+      "bg": "rgb(59, 46, 23)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 8,
+      "color": "rgb(101, 119, 108)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-pending",
+      "text": "Completada - Pendiente",
+      "size": 8,
+      "color": "rgb(239, 201, 119)",
+      "bg": "rgb(59, 46, 23)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 8,
+      "color": "rgb(101, 119, 108)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-pending",
+      "text": "Completada - Pendiente",
+      "size": 8,
+      "color": "rgb(239, 201, 119)",
+      "bg": "rgb(59, 46, 23)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 8,
+      "color": "rgb(101, 119, 108)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-pending",
+      "text": "Completada - Pendiente",
+      "size": 8,
+      "color": "rgb(239, 201, 119)",
+      "bg": "rgb(59, 46, 23)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 8,
+      "color": "rgb(101, 119, 108)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-pending",
+      "text": "Completada - Pendiente",
+      "size": 8,
+      "color": "rgb(239, 201, 119)",
+      "bg": "rgb(59, 46, 23)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 8,
+      "color": "rgb(101, 119, 108)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-reviewed",
+      "text": "Completada - Revisada",
+      "size": 8,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgb(32, 58, 28)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 8,
+      "color": "rgb(101, 119, 108)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-reviewed",
+      "text": "Completada - Revisada",
+      "size": 8,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgb(32, 58, 28)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 8,
+      "color": "rgb(101, 119, 108)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-reviewed",
+      "text": "Completada - Revisada",
+      "size": 8,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgb(32, 58, 28)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 8,
+      "color": "rgb(101, 119, 108)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-reviewed",
+      "text": "Completada - Revisada",
+      "size": 8,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgb(32, 58, 28)"
+    },
+    {
+      "tag": "I",
+      "cls": "",
+      "text": "vs",
+      "size": 8,
+      "color": "rgb(101, 119, 108)",
+      "bg": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "status status-reviewed",
+      "text": "Completada - Revisada",
+      "size": 8,
+      "color": "rgb(189, 243, 107)",
+      "bg": "rgb(32, 58, 28)"
+    },
+    {
+      "tag": "SMALL",
+      "cls": "",
+      "text": "HÉROE",
+      "size": 8,
+      "color": "rgb(113, 133, 122)",
+      "bg": "rgba(0, 0, 0, 0)"
+    }
+  ],
+  "smallTargets": [
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 13,
+      "h": 13,
+      "text": ""
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 12,
+      "h": 13,
+      "text": "Seleccionar entrada 11"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 12,
+      "h": 13,
+      "text": "Seleccionar entrada 10"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 12,
+      "h": 13,
+      "text": "Seleccionar entrada 9"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 12,
+      "h": 13,
+      "text": "Seleccionar entrada 8"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 12,
+      "h": 13,
+      "text": "Seleccionar entrada 7"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 12,
+      "h": 13,
+      "text": "Seleccionar entrada 6"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 12,
+      "h": 13,
+      "text": "Seleccionar entrada 5"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 12,
+      "h": 13,
+      "text": "Seleccionar entrada 4"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 12,
+      "h": 13,
+      "text": "Seleccionar entrada 3"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 12,
+      "h": 13,
+      "text": "Seleccionar entrada 2"
+    },
+    {
+      "tag": "INPUT",
+      "cls": "",
+      "w": 12,
+      "h": 13,
+      "text": "Seleccionar entrada 1"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "text-button",
+      "w": 95,
+      "h": 14,
+      "text": "Ver entrada completa →"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "text-button",
+      "w": 95,
+      "h": 14,
+      "text": "Ver entrada completa →"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "text-button",
+      "w": 95,
+      "h": 14,
+      "text": "Ver entrada completa →"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "text-button",
+      "w": 95,
+      "h": 14,
+      "text": "Ver entrada completa →"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "text-button",
+      "w": 95,
+      "h": 14,
+      "text": "Ver entrada completa →"
+    }
+  ],
+  "h1": {
+    "text": "Las manos pasan. Las lecciones quedan.",
+    "size": "26px",
+    "weight": "400"
+  },
+  "fullHeight": 4074
+}
